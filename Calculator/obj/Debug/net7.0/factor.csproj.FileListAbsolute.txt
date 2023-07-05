@@ -1,0 +1,15 @@
+/workspaces/factors/factor/bin/Debug/net7.0/factor
+/workspaces/factors/factor/bin/Debug/net7.0/factor.deps.json
+/workspaces/factors/factor/bin/Debug/net7.0/factor.runtimeconfig.json
+/workspaces/factors/factor/bin/Debug/net7.0/factor.dll
+/workspaces/factors/factor/bin/Debug/net7.0/factor.pdb
+/workspaces/factors/factor/obj/Debug/net7.0/factor.csproj.AssemblyReference.cache
+/workspaces/factors/factor/obj/Debug/net7.0/factor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/factors/factor/obj/Debug/net7.0/factor.AssemblyInfoInputs.cache
+/workspaces/factors/factor/obj/Debug/net7.0/factor.AssemblyInfo.cs
+/workspaces/factors/factor/obj/Debug/net7.0/factor.csproj.CoreCompileInputs.cache
+/workspaces/factors/factor/obj/Debug/net7.0/factor.dll
+/workspaces/factors/factor/obj/Debug/net7.0/refint/factor.dll
+/workspaces/factors/factor/obj/Debug/net7.0/factor.pdb
+/workspaces/factors/factor/obj/Debug/net7.0/factor.genruntimeconfig.cache
+/workspaces/factors/factor/obj/Debug/net7.0/ref/factor.dll

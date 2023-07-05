@@ -1,0 +1,10 @@
+﻿Console.ForegroundColor = ConsoleColor.Blue;
+Console.WriteLine("Calculator Program - Thomas Mead - @WombleWoo7547 - Build 1_07/05/2023");
+Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("Please enter a number below:");
+Console.ForegroundColor = ConsoleColor.White;
+var number1 = Console.ReadLine();
+Console.ForegroundColor = ConsoleColor.Yellow;
+Console.WriteLine("DEBUG - Entered " + number1);
+Console.ForegroundColor = ConsoleColor.white;
+var operation = Console.Readline();
